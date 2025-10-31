@@ -1,0 +1,11 @@
+streamlit==1.39.0
+pandas
+pyspark==3.5.1
+polars
+nltk
+wordcloud
+matplotlib
+seaborn
+plotly
+streamlit-extras
+pyarrow
